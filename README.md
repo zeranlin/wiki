@@ -1,2 +1,2 @@
 # wiki
-wiki
+wiki wiki
